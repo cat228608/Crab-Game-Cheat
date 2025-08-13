@@ -49,7 +49,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+    git clone https://github.com/cat228608/Crab-Game-Cheat.git
     ```
 
 2.  **Скачайте MinHook:**
